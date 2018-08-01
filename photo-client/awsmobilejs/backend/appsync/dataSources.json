@@ -12,7 +12,7 @@
             "type": "AMAZON_DYNAMODB",
             "serviceRoleArn": "{managed-by-awsmobile-cli}",
             "dynamodbConfig": {
-                "tableName": "PicturesTable-{suffix}",
+                "tableName": "PicturesTable-fVc0ZSxS",
                 "awsRegion": "us-east-1",
                 "useCallerCredentials": false
             }
@@ -30,7 +30,7 @@
                     "AttributeType": "S"
                 }
             ],
-            "TableName": "PicturesTable-{suffix}",
+            "TableName": "PicturesTable-fVc0ZSxS",
             "KeySchema": [
                 {
                     "AttributeName": "id",
